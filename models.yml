@@ -72,12 +72,11 @@ stt_models:
   de:
     latest:
       meta:
-        name: "de_v1"
+        name: "de_v4"
         sample: "https://models.silero.ai/examples/de_sample.wav"
       labels: "https://models.silero.ai/models/de/de_v1_labels.json"
-      jit: "https://models.silero.ai/models/de/de_v1_jit.model"
-      onnx: "https://models.silero.ai/models/de/de_v1.onnx"
-      tf: "https://models.silero.ai/models/de/de_v1_tf.tar.gz"
+      jit: "https://models.silero.ai/models/de/de_v4_large.jit"
+      onnx: "https://models.silero.ai/models/de/de_v4_large.onnx"
     v1:
       meta:
         name: "de_v1"
